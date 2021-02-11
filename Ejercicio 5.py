@@ -1,7 +1,7 @@
 #Samantha Dominguez Flores
 prim = []
-quin = []
 ter = []
+quin = []
 fin = []
 
 opc = 1
